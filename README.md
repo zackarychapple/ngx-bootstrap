@@ -1,18 +1,27 @@
-<a href="http://valor-software.com/ngx-bootstrap/#/">
-    <h1 align="center">ngx-bootstrap</h1>
-</a>
+<p align="center">
+  <a href="http://valor-software.com/ngx-bootstrap/#/">
+    <img alt="ngx-bootstrap logo" title="ngx-bootstrap logo" src="https://valor-software.com/ngx-bootstrap/assets/images/logos/content-logo.svg" width="450">
+  </a>
+</p>
+
 Server side rendered version of this documentation available
-<a href="https://ngx-universal.herokuapp.com/">here</a> served with Angular universal and <a href="https://nestjs.com">nest.js</a>
+<a href="https://valor-software.com/ngx-bootstrap/#">here</a> served with Angular universal and <a href="https://nestjs.com">nest.js</a>
 
 <p align="center">
 Best way to quickly integrate <a href="https://getbootstrap.com/">Bootstrap 3</a> or <a href="https://getbootstrap.com/docs/4.0">Bootstrap 4</a> Components with <a href="https://angular.io/">Angular</a>
 </p>
 
 <p align="center">
-<a href="https://badge.fury.io/js/ngx-bootstrap"><img src="https://badge.fury.io/js/ngx-bootstrap.svg" alt="npm version" ></a>
-<a href="https://npmjs.org/ngx-bootstrap"><img src="https://img.shields.io/npm/dm/ngx-bootstrap.svg" alt="npm downloads" ></a>
-<a href="https://travis-ci.org/valor-software/ngx-bootstrap"><img alt="" src="https://travis-ci.com/valor-software/ngx-bootstrap.svg?branch=development"></a>
-<a target="_blank" href="https://opencollective.com/ngx-bootstrap"><img src="https://opencollective.com/ngx-bootstrap/tiers/backer/badge.svg?label=backer&color=brightgreen" /></a>
+<a href="https://badge.fury.io/js/ngx-bootstrap">
+<img src="https://badge.fury.io/js/ngx-bootstrap.svg" alt="npm version" >
+</a>
+<a href="https://npmjs.org/ngx-bootstrap">
+<img src="https://img.shields.io/npm/dm/ngx-bootstrap.svg" alt="npm downloads">
+</a>
+<a href="https://travis-ci.org/valor-software/ngx-bootstrap">
+<img alt="" src="https://travis-ci.com/valor-software/ngx-bootstrap.svg?branch=development"></a>
+<a target="_blank" href="https://opencollective.com/ngx-bootstrap">
+<img src="https://opencollective.com/ngx-bootstrap/tiers/backer/badge.svg?label=backer&color=brightgreen" /></a>
 
 <br/>
 <a  href="https://join.slack.com/t/ngx-home/shared_invite/enQtNTExMTY5MzcwMTM0LWVjZGU2MjI4MTVhMGVlMTc2OWRiMzA0NzBhNDU5YzQ0MDM3MWI5NzJjZTUzNzIxZmNjYmFlMjU2MzE0YmY0NWY"><img src="https://thehomeofthefuture.files.wordpress.com/2018/12/Joinslack.png" width="20%" alt="slack" ></a>
@@ -44,7 +53,7 @@ Best way to quickly integrate <a href="https://getbootstrap.com/">Bootstrap 3</a
 
 ## Getting Started
 
-ngx-bootstrap contains all core (and not only) Bootstrap components powered by Angular. So you don't need to include original JS components, but we are using markup and CSS provided by Bootstrap.
+Powered by Angular, ngx-bootstrap contains all of the core Bootstrap components and some additional components created by our team. Using ngx-bootstrap removes reliance on the JS components provided by Bootstrap itself. We are using the base SCSS provided by Bootstrap.
 
 ## Supporting NGX-Bootstrap
 ngx-bootstrap is an Open Source (MIT Licensed) project, it's an independent project with ongoing development made possible thanks to the support of our awesome backers.
